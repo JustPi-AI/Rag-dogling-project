@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Theo tài liệu, cú pháp import module trong Python được viết như thế nào?\n\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Cú pháp để import một module trong Python được viết như sau:\n\n```python\nimport module\n```\n\nĐây là cách để nhập một module để sử dụng trong chương trình."
+  },
+  {
+    "role": "user",
+    "content": "Theo tài liệu, cú pháp import module trong Python được viết như thế nào?\n\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Cú pháp để nhập một module trong Python được viết như sau:\n\n```python\nimport module\n```\n\nĐiều này cho phép bạn sử dụng mã được định nghĩa trong module đó trong chương trình của bạn."
+  }
+]

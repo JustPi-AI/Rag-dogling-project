@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "tóm tắt file Introduction_to_Python_Programming_-_WEB.pdf"
+  },
+  {
+    "role": "assistant",
+    "content": "Tài liệu \"Introduction to Python Programming\" cung cấp nền tảng toàn diện về các khái niệm và kỹ năng lập trình, phù hợp với nội dung của các khóa học nhập môn. Tài liệu này bao gồm nhiều tình huống, ngữ cảnh, và vấn đề phản ánh ứng dụng lập trình trong nhiều lĩnh vực và nghề nghiệp khác nhau. \n\nNó được thiết kế để phục vụ cho nhiều đối tượng học viên, bao gồm cả những người theo học khoa học máy tính, kinh doanh, khoa học tự nhiên, khoa học xã hội, thống kê, và khoa học dữ liệu. \n\nKhóa học tương tác này không chỉ giáo dục về các khái niệm lập trình cơ bản mà còn phát triển kỹ năng giải quyết vấn đề bằng cách sử dụng ngôn ngữ Python thông qua các hoạt động thực hành. Tài liệu tích hợp một trình chạy mã độc đáo cho phép học viên áp dụng ngay các kiến thức đã học để kiểm tra sự hiểu biết của mình. \n\nNội dung được tổ chức theo các chương, mỗi chương có từ 6-8 phần, với các mục tiêu học tập rõ ràng và các bài thực hành lập trình. Thiết kế giáo dục của tài liệu nhấn mạnh vào việc học tập tích cực và sự tương tác, với nội dung ngắn gọn và nhiều hoạt động thực hành. \n\nTài liệu có sử dụng video và câu hỏi học tập tương tác để hỗ trợ người học, giúp họ hiểu rõ hơn về cách thực thi mã Python một cách trực quan."
+  }
+]

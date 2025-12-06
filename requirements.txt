@@ -1,0 +1,38 @@
+# --- PyTorch GPU (CUDA 11.8) ---
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+
+# === Core ML / Vector ===
+faiss-cpu==1.12.0
+sentence-transformers==5.1.1
+transformers==4.56.2
+numpy==2.2.6
+
+# === LangChain / LangGraph ===
+langchain==0.3.27
+langchain-core==0.3.79
+langchain-community==0.3.31
+langchain-text-splitters==0.3.11
+langgraph==1.0.1
+langsmith==0.4.34
+
+# === Document parsing ===
+docling==2.56.1
+docling-core==2.48.4
+docling-ibm-models==3.9.1
+docling-parse==4.5.0
+PyMuPDF==1.24.10
+
+# === API / LLM ===
+openai==1.109.1
+
+# === UI ===
+streamlit==1.50.0
+
+# === Utilities ===
+python-dotenv==1.1.1
+tqdm==4.66.5
+requests==2.32.5
+pandas==2.2.3
